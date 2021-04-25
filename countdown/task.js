@@ -1,3 +1,5 @@
+"use strict";
+
 const addText = function () {
     const output = document.getElementById("timer");
     output.textContent -= 1;

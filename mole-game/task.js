@@ -1,3 +1,5 @@
+"use strict";
+
 (() => {
     const inputs = document.querySelectorAll('div > .hole');
     for (var i = 0; i < inputs.length; i++) {

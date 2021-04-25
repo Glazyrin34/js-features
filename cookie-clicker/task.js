@@ -1,3 +1,5 @@
+"use strict";
+
 const cookie = document.getElementById("cookie");
 const clickerCounter = document.getElementById("clicker__counter");
 
